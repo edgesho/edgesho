@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edgesho
+- 👋 Hi, I’m @aditya
 - 👀 I’m interested in ...programing
 - 🌱 I’m currently learning ...c,c++,python
 - 💞️ I’m looking to collaborate on ...
